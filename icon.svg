@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">ติดตั้งคอมพิวเตอร์</title>
+  <desc id="desc">จอคอมพิวเตอร์พร้อมเครื่องหมายยืนยันการติดตั้ง</desc>
+  <rect width="64" height="64" rx="15" fill="#153d60"/>
+  <rect x="10" y="11" width="43" height="32" rx="4" fill="none" stroke="#fff" stroke-width="3"/>
+  <path d="M15 36h33M31.5 44v9M21 54h21" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="47" cy="44" r="13" fill="#0c9873" stroke="#153d60" stroke-width="2"/>
+  <path d="m41 44 4 4 8-9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</svg>
